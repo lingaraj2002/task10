@@ -1,0 +1,41 @@
+* {
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	font-family: 'Poppins', sans-serif;
+}
+.sec {
+	margin:10px;
+}
+.container {
+	width:100%;
+}
+.row {
+	display:flex;
+}
+.col1 {
+	width:40%;
+}
+img {
+	max-width:100%;
+}
+.col2 {
+	width:60%;
+	padding:20px;
+	font-size:20px;
+}
+.content1 {
+	padding:20px;
+}
+.content2 {
+	display:flex;
+	flex-wrap:wrap;
+}
+.con {
+	display:flex;
+	width:50%;
+}
+.icon {
+	color:#ff9900;
+	font-size:40px;
+}
